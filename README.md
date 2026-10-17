@@ -1,6 +1,6 @@
 # Vedarth Harikrishnan — Portfolio
 
-A static personal portfolio built with vanilla HTML, CSS and JavaScript. Navigation covers Home, Projects, Education, Skills, Awards, Qualifications and Work Experience. The five background sections share `experience.html`; Home contains the introduction and selected highlights. No dependencies, build tools or installation are required.
+A static personal portfolio built with vanilla HTML, CSS and JavaScript. It uses four focused pages: Home, Projects, Education and Experience. Education includes studies, skills, awards and qualifications; Experience contains employment and leadership roles. No dependencies, build tools or installation are required.
 
 ## Preview
 
@@ -14,6 +14,7 @@ Alternatively, from this directory run `python -m http.server 8000 --directory p
 portfolio/
   index.html
   projects.html
+  education.html
   experience.html
   content.md
   css/style.css
@@ -43,4 +44,4 @@ You can also upload the contents of `portfolio/` to any static host. Set `portfo
 
 ## Checks
 
-Browser verification covers all three pages at 375px, 768px and 1440px, navigation, project and experience anchors, keyboard access, local asset loading and horizontal overflow. Before publishing copy changes, check the pages against `portfolio/content.md` and repeat the relevant checks.
+Browser verification covers all four pages at 375px, 768px and 1440px, navigation, project anchors, keyboard access, local asset loading and horizontal overflow. Before publishing copy changes, check the pages against `portfolio/content.md` and repeat the relevant checks.
