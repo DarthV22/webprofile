@@ -1,6 +1,6 @@
 # Vedarth Harikrishnan — Portfolio
 
-A static personal portfolio built with vanilla HTML, CSS and JavaScript. No dependencies, build tools or installation are required.
+A static personal portfolio built with vanilla HTML, CSS and JavaScript. It presents projects alongside education, skills, awards and work experience. No dependencies, build tools or installation are required.
 
 ## Preview
 
@@ -15,6 +15,7 @@ portfolio/
   index.html
   about.html
   projects.html
+  experience.html
   content.md
   css/style.css
   js/main.js
@@ -37,10 +38,10 @@ GitHub Pages is the simplest option for this project. It is static, free for pub
 3. Open the **Actions** tab, choose **Deploy portfolio to GitHub Pages**, click **Run workflow**, and run it on `main`.
 4. GitHub will provide the live address when the run succeeds. For this repository, it will normally be `https://darthv22.github.io/webprofile/`.
 
-After the initial setup, run the same workflow whenever you want to publish changes. The `portfolio/` directory is deployed directly; there is no build command or dependency installation.
+After the initial setup, every push to `main` automatically publishes changes. The workflow can also be run manually. The `portfolio/` directory is deployed directly; there is no build command or dependency installation.
 
 You can also upload the contents of `portfolio/` to any static host. Set `portfolio` as the publish directory and leave the build command empty.
 
 ## Checks
 
-Browser verification covers all three pages at 375px, 768px and 1440px, navigation, project anchors, keyboard access, local asset loading and horizontal overflow. Before publishing copy changes, check the pages against `portfolio/content.md` and repeat the relevant checks.
+Browser verification covers all four pages at 375px, 768px and 1440px, navigation, project and experience anchors, keyboard access, local asset loading and horizontal overflow. Before publishing copy changes, check the pages against `portfolio/content.md` and repeat the relevant checks.
