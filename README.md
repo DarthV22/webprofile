@@ -36,7 +36,7 @@ GitHub Pages is the simplest option for this project. It is static, free for pub
 1. On GitHub, open the repository's **Settings → General → Danger Zone → Change repository visibility** and make it **Public**.
 2. Open **Settings → Pages**. Under **Build and deployment**, select **GitHub Actions** as the source.
 3. Open the **Actions** tab, choose **Deploy portfolio to GitHub Pages**, click **Run workflow**, and run it on `main`.
-4. GitHub will provide the live address when the run succeeds. For this repository, it will normally be `https://goblu22.github.io/webprofile/`.
+4. GitHub will provide the live address when the run succeeds. For this repository, it will normally be `https://darthv22.github.io/webprofile/`.
 
 After the initial setup, run the same workflow whenever you want to publish changes. The `portfolio/` directory is deployed directly; there is no build command or dependency installation.
 

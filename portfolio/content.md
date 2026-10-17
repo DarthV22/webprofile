@@ -139,7 +139,7 @@ Dates: September 2020 – July 2022
 - Email: [vedarthharikrishnan56@gmail.com](mailto:vedarthharikrishnan56@gmail.com)
 - Telephone: [07545602638](tel:07545602638)
 - LinkedIn: DarthVlinkedin
-- GitHub: [GOBLU22](https://github.com/GOBLU22)
+- GitHub: [DarthV22](https://github.com/DarthV22)
 
 ## Resume asset
 
