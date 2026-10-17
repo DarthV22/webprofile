@@ -17,7 +17,6 @@ I am a BEng Aeronautics and Astronautics graduate from the University of Southam
 - Engineering software: SolidWorks, ANSYS Fluent, ANSYS Mechanical (APDL), ANSYS Workbench, OpenVSP, XFLR5, XFOIL, Tecplot 360, Granta Edupack, Blender.
 - Programming and computing: Python, Linux, Cantera, Arduino IDE, MATLAB.
 - Finance software: VT, IRIS Elements.
-- Languages: English, Telugu and Tamil.
 
 ## Awards
 

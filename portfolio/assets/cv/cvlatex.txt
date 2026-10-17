@@ -252,10 +252,6 @@
         \begin{onecolentry}
             \textbf{Lifeguarding: } National Pool Lifeguard Qualification from the Royal Life Saving Society UK \end{onecolentry}
 
-         \begin{onecolentry}
-            \textbf{Languages: } English, Telugu and Tamil.
-        \end{onecolentry}   
-
     \section{Projects}
 
         \begin{twocolentry}{
