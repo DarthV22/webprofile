@@ -86,7 +86,7 @@ strong { font-weight: 600; }
 
 .wordmark { color: var(--ink); font-size: 1rem; font-weight: 600; line-height: 1.3; text-decoration: none; letter-spacing: -0.025em; }
 .wordmark span { display: block; }
-.site-nav { display: flex; flex-wrap: wrap; gap: 1.75rem; }
+.site-nav { display: flex; justify-content: flex-end; flex-wrap: wrap; gap: 0.5rem 1.25rem; }
 .site-nav a { display: inline-flex; align-items: center; min-height: 2.75rem; color: var(--muted); font-size: 0.9375rem; text-decoration: none; border-bottom: 2px solid transparent; }
 .site-nav a:hover, .site-nav a[aria-current="page"] { color: var(--accent); border-color: var(--accent); }
 
@@ -185,7 +185,7 @@ dd { color: var(--muted); }
   .container { width: calc(100% - 2.5rem); }
   .site-header { align-items: flex-start; flex-direction: column; gap: 0.75rem; padding-block: 1.25rem; }
   .wordmark { font-size: 0.875rem; }
-  .site-nav { gap: 1rem; }
+  .site-nav { justify-content: flex-start; gap: 0.25rem 1rem; }
   .site-nav a { font-size: 0.8125rem; }
   .hero { gap: 2rem; padding-block: 3.5rem; }
   .hero h1 { font-size: clamp(2.6rem, 11.3vw, 4.75rem); }

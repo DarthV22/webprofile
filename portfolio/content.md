@@ -19,9 +19,12 @@ I am a BEng Aeronautics and Astronautics graduate from the University of Southam
 - Finance software: VT, IRIS Elements.
 - Languages: English, Telugu and Tamil.
 
-## Awards and qualifications
+## Awards
 
 - UKMT Maths Challenges: Gold Award and qualification for UKMT Kangaroo for five consecutive years; First Place in School Award in two of those years (Intermediate and Senior).
+
+## Qualifications
+
 - Music: ABRSM Grade 7 Piano, Grade 8 Singing, Grade 6 Music Theory; PRSSV Grade 6 Singing.
 - Lifeguarding: National Pool Lifeguard Qualification, Royal Life Saving Society UK.
 
