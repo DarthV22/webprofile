@@ -19,15 +19,14 @@ portfolio/
   css/style.css
   js/main.js
   assets/
-    images/
-    resume.pdf
-cvlatex.txt
-Vedarth_CV6.pdf
+    cv/
+      Vedarth_CV6.pdf
+      cvlatex.txt
 ```
 
 `portfolio/content.md` is the single source of approved portfolio copy. Update the static HTML when changing this file; the website does not fetch or render Markdown at runtime. Preserve supplied profile identifiers in that file, but add website links only when their full URLs are known.
 
-The original CV source and PDF remain in the repository. Only `portfolio/` is the website's deployment directory.
+The single canonical CV folder is `portfolio/assets/cv/`, containing both `Vedarth_CV6.pdf` and `cvlatex.txt`. Only `portfolio/` is the website's deployment directory.
 
 ## Deploy
 

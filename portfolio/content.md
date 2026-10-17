@@ -2,7 +2,7 @@
 
 ## Source
 
-Extracted from `cvlatex.txt`. `Vedarth_CV6.pdf` is available as the resume asset, but its contents have not been independently verified against this extraction. Dates and claims below reflect the CV, including its use of “Present”.
+Extracted from `assets/cv/cvlatex.txt`. `assets/cv/Vedarth_CV6.pdf` is available as the resume asset, but its contents have not been independently verified against this extraction. Dates and claims below reflect the CV, including its use of “Present”.
 
 ## Role / title
 
@@ -143,9 +143,9 @@ Dates: September 2020 – July 2022
 
 ## Resume asset
 
-Source file: `Vedarth_CV6.pdf`
+Source file: `assets/cv/Vedarth_CV6.pdf`
 
-Planned website path: `assets/resume.pdf`
+Website path: `assets/cv/Vedarth_CV6.pdf`
 
 ## Missing information
 
