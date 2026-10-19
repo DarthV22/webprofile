@@ -165,19 +165,26 @@
         \vspace{5 pt}
 
         \normalsize
-    
-        
-      
+
         \mbox{\hrefWithoutArrow{mailto:vedarthharikrishnan56@gmail.com}{vedarthharikrishnan56@gmail.com}}%
         \kern 5.0 pt%
         \AND%
         \kern 5.0 pt%
         \mbox{\hrefWithoutArrow{tel:07545602638}{07545602638}}%
         \kern 5.0 pt%
-        
+        \AND%
+        \kern 5.0 pt%
+        \mbox{\hrefWithoutArrow{https://www.linkedin.com/in/vedarthharikrishnan/}{LinkedIn}}%
+        \kern 5.0 pt%
+        \AND%
+        \kern 5.0 pt%
+        \mbox{\hrefWithoutArrow{https://github.com/DarthV22}{GitHub}}%
+
     \end{header}
 
     \vspace{5 pt - 0.3 cm}
+
+    \linespread{0.96}\selectfont % Slightly tighter leading to retain two-page CV
 
     \section{Summary}
         
@@ -200,7 +207,7 @@
         \vspace{0.1 cm}
         \begin{onecolentry}
             \begin{highlights}
-                \item \textbf{Notable Modules:} Aerodynamics and Aircraft Design, Propulsion and Thermodynamics, Materials and Structures, Digital Aerospace (CFD and Finite Element Analysis), Electronics, Control and Response Systems. 
+                \item \textbf{Key Modules:} Aerodynamics and Aircraft Design, Propulsion and Thermodynamics, Materials and Structures, Digital Aerospace (CFD and Finite Element Analysis), Electronics, Control and Response Systems.
             \end{highlights}
         \end{onecolentry}
 
@@ -224,33 +231,32 @@
         \end{onecolentry}
 
       
-    \section{Skills and Awards}
-        
-        \begin{onecolentry}
-                \textbf{Engineering Software: } SolidWorks, ANSYS Fluent, ANSYS Mechanical (APDL), ANSYS Workbench, OpenVSP, XFLR5, XFOIL, Tecplot 360, Granta Edupack, Blender.
-        \end{onecolentry}
+    % Compact, balanced Skills and Awards layout
+    \vspace{0.05cm}
+    \noindent
+    \begin{minipage}[t]{0.54\textwidth}
+        \vspace{0pt}
+        {\bfseries\large Skills}\par\vspace{5pt}\hrule\vspace{0.18cm}
 
+        \textbf{AI \& Cloud Development:} Microsoft Foundry, Agentic AI development and orchestration, RAG pipelines, MCP integration, computer vision, natural language processing and document intelligence.\par
 
-        \begin{onecolentry}
-            \textbf{Programming: } Python, Linux, Cantera, Arduino IDE, MATLAB.
-        \end{onecolentry}
-        
-    
-        \begin{onecolentry}
-            \textbf{Finance Software: } VT, IRIS Elements.
-        \end{onecolentry}
-
-
-        \begin{onecolentry}
-            \textbf{UKMT Maths Challenges: } Achieved Gold Award and qualified for UKMT Kangaroo for 5 consecutive years. Achieved First Place in School Award during 2 of those years (Intermediate and Senior).
-        \end{onecolentry}
-        
-         \begin{onecolentry}
-            \textbf{Music: } ABRSM Grade 7 Piano, Grade 8 Singing, Grade 6 Music Theory, PRSSV Grade 6 Singing
-        \end{onecolentry}
-
-        \begin{onecolentry}
-            \textbf{Lifeguarding: } National Pool Lifeguard Qualification from the Royal Life Saving Society UK \end{onecolentry}
+        \textbf{Engineering Software:} SolidWorks, ANSYS Fluent,
+        ANSYS Mechanical (APDL), ANSYS Workbench, OpenVSP,
+        XFLR5, XFOIL, Tecplot 360, Granta Edupack, Blender.\par
+        \textbf{Programming:} Python, Linux, Cantera, Arduino IDE, MATLAB, Simulink, HTML, CSS, Javascript.\par
+        \textbf{Finance Software:} VT, IRIS Elements.
+    \end{minipage}\hfill
+    \begin{minipage}[t]{0.43\textwidth}
+        \vspace{0pt}
+        {\bfseries\large Awards \& Certifications}\par\vspace{5pt}\hrule\vspace{0.18cm}
+        \textbf{Microsoft Azure AI-103:} Azure AI Apps and Agents Developer Associate.\par
+        \textbf{UKMT:} Gold Award and Kangaroo qualification for
+        five consecutive years; First Place in School twice
+        (Intermediate and Senior).\par
+        \textbf{Music:} ABRSM Grade 7 Piano, Grade 8 Singing,
+        Grade 6 Music Theory; PRSSV Grade 6 Singing.\par
+        \textbf{Lifeguarding:} RLSS UK National Pool Lifeguard Qualification.
+    \end{minipage}
 
     \section{Projects}
 

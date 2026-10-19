@@ -21,24 +21,21 @@ portfolio/
   js/main.js
   assets/
     cv/
-      Vedarth_CV6.pdf
+      Vedarth_CV7.pdf
       cvlatex.txt
 ```
 
 `portfolio/content.md` is the single source of approved portfolio copy. Update the static HTML when changing this file; the website does not fetch or render Markdown at runtime. Preserve supplied profile identifiers in that file, but add website links only when their full URLs are known.
 
-The single canonical CV folder is `portfolio/assets/cv/`, containing both `Vedarth_CV6.pdf` and `cvlatex.txt`. Only `portfolio/` is the website's deployment directory.
+The single canonical CV folder is `portfolio/assets/cv/`, containing both `Vedarth_CV7.pdf` and `cvlatex.txt`. Only `portfolio/` is the website's deployment directory.
 
 ## Deploy
 
-GitHub Pages is the simplest option for this project. It is static, free for public repositories, and the included workflow uploads only `portfolio/`.
+Repository: [DarthV22/webprofile](https://github.com/DarthV22/webprofile).
 
-1. On GitHub, open the repository's **Settings → General → Danger Zone → Change repository visibility** and make it **Public**.
-2. Open **Settings → Pages**. Under **Build and deployment**, select **GitHub Actions** as the source.
-3. Open the **Actions** tab, choose **Deploy portfolio to GitHub Pages**, click **Run workflow**, and run it on `main`.
-4. GitHub will provide the live address when the run succeeds. For this repository, it will normally be `https://darthv22.github.io/webprofile/`.
+Live website: [darthv22.github.io/webprofile](https://darthv22.github.io/webprofile/).
 
-After the initial setup, every push to `main` automatically publishes changes. The workflow can also be run manually. The `portfolio/` directory is deployed directly; there is no build command or dependency installation.
+GitHub Pages is configured to deploy through the included `Deploy portfolio to GitHub Pages` workflow. Every push to `main` automatically publishes changes; the workflow can also be run manually from the repository's Actions tab. The workflow uploads only `portfolio/`. There is no build command or dependency installation.
 
 You can also upload the contents of `portfolio/` to any static host. Set `portfolio` as the publish directory and leave the build command empty.
 

@@ -2,7 +2,7 @@
 
 ## Source
 
-Extracted from `assets/cv/cvlatex.txt`. `assets/cv/Vedarth_CV6.pdf` is available as the resume asset, but its contents have not been independently verified against this extraction. Dates and claims below reflect the CV, including its use of “Present”.
+Extracted from `assets/cv/cvlatex.txt`. The current resume asset is `assets/cv/Vedarth_CV7.pdf`.
 
 ## Role / title
 
@@ -10,16 +10,18 @@ BEng Aeronautics and Astronautics graduate
 
 ## Bio
 
-I am a BEng Aeronautics and Astronautics graduate from the University of Southampton, with an analytical and technical foundation spanning mathematics, physics, engineering and programming. My experience includes collaborative projects, computational modelling, problem-solving and team leadership through Formula Student, UAV development and society presidency. I combine quantitative reasoning with communication and organisational skills, seeking to contribute to challenging problems across technology, consulting and engineering.
+I am a BEng Aeronautics and Astronautics graduate from the University of Southampton with experience in Formula Student, UAV development, CFD research, AI and cloud development, programming, and society leadership. I am interested in technology, consulting and engineering roles.
 
 ## Skills
 
+- AI and cloud development: Microsoft Foundry, agentic AI development and orchestration, RAG pipelines, MCP integration, computer vision, natural language processing and document intelligence.
 - Engineering software: SolidWorks, ANSYS Fluent, ANSYS Mechanical (APDL), ANSYS Workbench, OpenVSP, XFLR5, XFOIL, Tecplot 360, Granta Edupack, Blender.
-- Programming and computing: Python, Linux, Cantera, Arduino IDE, MATLAB.
+- Programming and computing: Python, Linux, Cantera, Arduino IDE, MATLAB, Simulink, HTML, CSS and JavaScript.
 - Finance software: VT, IRIS Elements.
 
 ## Awards
 
+- Microsoft Azure AI-103: Azure AI Apps and Agents Developer Associate.
 - UKMT Maths Challenges: Gold Award and qualification for UKMT Kangaroo for five consecutive years; First Place in School Award in two of those years (Intermediate and Senior).
 
 ## Qualifications
@@ -55,7 +57,7 @@ Description: Developed Python tools and conducted experimental and computational
 
 Project links: NOT FOUND
 
-### Inviscid Suppression of Vortex-Induced Lift — Individual Project with UoS
+### Inviscid Suppression of Vortex-Induced Lift — CFD Research Project
 
 Dates: September 2025 – May 2026
 
@@ -140,18 +142,17 @@ Dates: September 2020 – July 2022
 
 - Email: [vedarthharikrishnan56@gmail.com](mailto:vedarthharikrishnan56@gmail.com)
 - Telephone: [07545602638](tel:07545602638)
-- LinkedIn: DarthVlinkedin
+- LinkedIn: [Vedarth Harikrishnan](https://www.linkedin.com/in/vedarthharikrishnan/)
 - GitHub: [DarthV22](https://github.com/DarthV22)
 
 ## Resume asset
 
-Source file: `assets/cv/Vedarth_CV6.pdf`
+Source file: `assets/cv/Vedarth_CV7.pdf`
 
-Website path: `assets/cv/Vedarth_CV6.pdf`
+Website path: `assets/cv/Vedarth_CV7.pdf`
 
 ## Missing information
 
-- LinkedIn URL: NOT FOUND
 - External project URLs for all three projects: NOT FOUND
 
-The website's project cards can link to the corresponding detailed entries on `projects.html` without inventing external links.
+Project details are available on `projects.html` at `#fixed-wing-uav`, `#formula-student` and `#vortex-induced-lift`.
