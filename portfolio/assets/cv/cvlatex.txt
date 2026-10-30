@@ -251,8 +251,8 @@
         {\bfseries\large Awards \& Certifications}\par\vspace{5pt}\hrule\vspace{0.18cm}
         \textbf{Microsoft Azure AI-103:} Azure AI Apps and Agents Developer Associate.\par
         \textbf{UKMT:} Gold Award and Kangaroo qualification for
-        five consecutive years; First Place in School twice
-        (Intermediate and Senior).\par
+        five consecutive years; First Place in School three times
+        (Junior, Intermediate and Senior).\par
         \textbf{Music:} ABRSM Grade 7 Piano, Grade 8 Singing,
         Grade 6 Music Theory; PRSSV Grade 6 Singing.\par
         \textbf{Lifeguarding:} RLSS UK National Pool Lifeguard Qualification.

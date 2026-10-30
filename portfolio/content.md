@@ -22,7 +22,7 @@ I am a BEng Aeronautics and Astronautics graduate from the University of Southam
 ## Awards
 
 - Microsoft Azure AI-103: Azure AI Apps and Agents Developer Associate.
-- UKMT Maths Challenges: Gold Award and qualification for UKMT Kangaroo for five consecutive years; First Place in School Award in two of those years (Intermediate and Senior).
+- UKMT Maths Challenges: Gold Award and qualification for UKMT Kangaroo for five consecutive years; First Place in School three times (Junior, Intermediate and Senior).
 
 ## Qualifications
 
